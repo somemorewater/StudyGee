@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json.schemastore.org/package",
   "name": "studygee",
   "version": "1.0.0",
   "main": "index.js",
